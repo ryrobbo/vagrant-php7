@@ -41,5 +41,6 @@ SSH Port: 2222
 
 ```
 sudo apt-get install libcurl3 php5-curl php5-gd php5-mcrypt php5-mysql
-sudo a2enmod rewrite sudo php5enmod mcrypt
+sudo a2enmod rewrite
+sudo php5enmod mcrypt
 ```
